@@ -1,0 +1,28 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li,
+div,
+span {
+    color: #f2f2f2;
+}
+
+::-webkit-scrollbar {
+    width: 0.25rem;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 4px;
+    background: #55585b;
+    margin-bottom: 2rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #fb413c;
+    border-radius: 4px;
+}
